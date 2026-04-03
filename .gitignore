@@ -1,0 +1,14 @@
+# Never push credentials to GitHub!
+*.env
+config.py
+credentials
+aws_credentials.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# VS Code
+.vscode/

@@ -115,11 +115,13 @@ GROUP BY device;
 
 4\. Run Glue Crawler to catalog schema
 
-## Related Project
-Pipeline automation with Apache Airflow:
-[airflow-clickstream-pipeline](https://github.com/praveen12194-gif/airflow-clickstream-pipeline)
+
 
 5\. Run Glue ETL job to convert to Parquet
 
 6\. Query with Athena
 
+
+## Related Project
+Pipeline automation with Apache Airflow:
+[airflow-clickstream-pipeline](https://github.com/praveen12194-gif/airflow-clickstream-pipeline)
